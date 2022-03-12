@@ -11,8 +11,7 @@ In this project I played the role of a pentester and SOC analyst. I set up Metri
 
 # Tools
 
-- Kali 
-- Linux 
+- Kali Linux 
 - Hydra 
 - Metasploit 
 - Shell scripting 
